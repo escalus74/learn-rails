@@ -1,0 +1,5 @@
+export GMAIL_USERNAME=(“mjcronin74@gmail.com”)
+export GMAIL_PASSWORD=(“carribeanvanilla76”)
+export MAILCHIMP_API_KEY=(“21c2ddcabc7a17c0a9136af0741c3460-us11”)
+export MAILCHIMP_LIST_ID=(“10717dee14”)
+export OWNER_EMAIL=(“mjcronin74@gmail.com”)
